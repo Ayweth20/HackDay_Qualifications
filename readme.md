@@ -4,13 +4,13 @@
 
 ## List of challenges (15)
 - Stegano (4)
-  - [Pokémons](./Stegano/Pokémons/)
-  - [Un coup de maître](./Stegano/Un%20coup%20de%20maître/) 
-  - [Un logo cachotier](./Stegano/Un%20logo%20cachotier/)
-  - [J'ai perdu le flag :(](./Stegano/J'ai%20perdu%20le%20flag/)
+  - [Pokémons](./Stegano/Pokémons/) (solution not found)
+  - [Un coup de maître](./Stegano/Un%20coup%20de%20maître/) (solution not found)
+  - [Un logo cachotier](./Stegano/Un%20logo%20cachotier/) (solution not found)
+  - [J'ai perdu le flag :(](./Stegano/J'ai%20perdu%20le%20flag/) (solution not found)
 
 - Hardware (1)
-  - [WebSDR](./Hardware/WebSDR/)
+  - [WebSDR](./Hardware/WebSDR/) (solution not found)
 
 - WEB (4)
   - [GIT!](./WEB/GIT!/)
@@ -20,7 +20,7 @@
 
 - Crypto (4)
   - [Francis Bacon](./Crypto/Francis%20Bacon/)
-  - [Francs Maçons](./Crypto/Francs%20Maçons/) 
+  - [Francs Maçons](./Crypto/Francs%20Maçons/) (solution not found) 
   - [Rotate-me !](./Crypto/Rotate-me/)
   - [Un message codé ?](./Crypto/Un%20message%20codé%20?/)
 
