@@ -11,7 +11,7 @@ Link : https://web3.hackday.fr/
 To solve this challenge you need to find a way to control the server and find the flag.  
 To find a "vulnerability" we can try to find the open ports on the server.  
 To do that, we use the NMap tool with the `nmap 51.255.172.76` command. The results are displayed 1 minute later :  
-(NMAP image)  
+![image](https://user-images.githubusercontent.com/91023285/163721173-388313d0-d388-43fa-aa75-9dc19d8492de.png)  
 So there are 4 open ports that we can use.  
 After some search I found a vulnerability (misconfiguration) on the FTP port where we can connect with the *anonymous* infos.  
 We can try to connect on the FTP port server with the command : `ftp 51.255.172.76` and the credentials : `anonymous:anonymous`  
