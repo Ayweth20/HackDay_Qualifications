@@ -16,13 +16,13 @@ To find them, we use the "*Search* > *For Strings...* > *Search*" and write "*LU
 ![image](https://user-images.githubusercontent.com/91023285/163861434-f3e79ab9-b2dc-4fe0-bb67-4c5c8510ea35.png)  
 With the decompile code (right part), we can see that's the *func2* function who generate the flag.  
 So now we want to run the program with **gdb-peda** to break at the func2 and see the return value :  
-
+![image](https://user-images.githubusercontent.com/91023285/163977653-4b9ba352-211a-4438-8e90-c8d910e74299.png)
 
 
 
 <details><summary>🚩 FLAG</summary>  
 
 ```  
-  HACKDAY{}
+  HACKDAY{BBBFFFF22BBBBBBJVZJV}
 ```  
 </details>
