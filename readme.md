@@ -4,14 +4,14 @@
 
 ## List of challenges (15)
 - Stegano (5)
-  - [Pokémons](./Stegano/Pokémons/) (solution not found)
-  - [Un coup de maître](./Stegano/Un%20coup%20de%20maître/) (solution not found)
-  - [Un logo cachotier](./Stegano/Un%20logo%20cachotier/) (solution not found)
-  - [I can make pictures](./Stegano/I%20can%20make%20pictures/) (solution not found)
-  - [J'ai perdu le flag :(](./Stegano/J'ai%20perdu%20le%20flag/) (solution not found)
+  - [Pokémons](./Stegano/Pokémons/) (solution unpublished)
+  - [Un coup de maître](./Stegano/Un%20coup%20de%20maître/) (solution unpublished)
+  - [Un logo cachotier](./Stegano/Un%20logo%20cachotier/) (solution unpublished)
+  - [I can make pictures](./Stegano/I%20can%20make%20pictures/) (solution unpublished)
+  - [J'ai perdu le flag :(](./Stegano/J'ai%20perdu%20le%20flag/) (solution unpublished)
 
 - Hardware (2)
-  - [WebSDR](./Hardware/WebSDR/) (solution not found)
+  - [WebSDR](./Hardware/WebSDR/) (solution unpublished)
   - [Cubik'cipher](./Hardware/Cubik'cipher/) (solution not found)
 
 - Forensic (1)
@@ -25,13 +25,13 @@
 
 - Crypto (4)
   - [Francis Bacon](./Crypto/Francis%20Bacon/)
-  - [Francs Maçons](./Crypto/Francs%20Maçons/) (solution not found) 
+  - [Francs Maçons](./Crypto/Francs%20Maçons/) (solution unpublished) 
   - [Rotate-me !](./Crypto/Rotate-me/)
-  - [Un message codé ?](./Crypto/Un%20message%20codé%20?/) (solution not found)
+  - [Un message codé ?](./Crypto/Un%20message%20codé%20?/) (solution unpublished)
 
 - Reverse (2)
   - [Memory Investigation](./Reverse/Memory%20Investigation/)
-  - [Calling Conventions](./Reverse/Calling%20Conventions/)
+  - [Calling Conventions](./Reverse/Calling%20Conventions/)  (solution unpublished)
 
 ## Flag format
 HACKDAY{printable_ASCII_chars}
